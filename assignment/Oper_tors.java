@@ -54,12 +54,12 @@ public void Assignm_ent(){                      //ASSIGNMENT OPERATORS DECLARTIO
 
 public static void main(String args[]){
 Oper_tors sellu=new Oper_tors();
-sellu.arth();
-sellu.calcIncrement();
-sellu.calcIncrement();
-sellu.Compari_on();
-sellu.Log_ic();
-sellu.Assignm_ent();
+zaid.arth();
+zaid.calcIncrement();
+zaid.calcIncrement();
+zaid.Compari_on();
+zaid.Log_ic();
+zaid.Assignm_ent();
  
 }
 }
